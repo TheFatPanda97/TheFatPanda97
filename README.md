@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [VIAplanner][viaplanner]!
 - 🌱 I’m currently learning how to build a mobile application with React Native
 - 🥅 2020 Goals: Make a MongoDB CLient App with RN
-- ⚡ Fun fact: I can juggle and play violin / drums
+- ⚡ Fun fact: I can juggle and play the violin / drums
 
 
 ### Connect with me:
