@@ -6,12 +6,14 @@
 - 🥅 2020 Goals: Make a MongoDB CLient App with RN
 - ⚡ Fun fact: I can juggle and play violin / drums
 
+
 ### Connect with me:
 
 [<img align="left" alt="shawnhu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<hr />
 
 ### Languages and Tools:
 
@@ -26,7 +28,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<hr/>
+<br />
+<hr />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true" />
 
