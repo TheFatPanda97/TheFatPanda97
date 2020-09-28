@@ -3,7 +3,7 @@
 ## I'm a Dreamer, Developer, Entrepreneur, and Problem Solver!
 - 🔭 I’m currently working on [VIAplanner][viaplanner]!
 - 🌱 I’m currently learning how to build a mobile application with React Native
-- 🥅 2020 Goals: Make a MongoDB CLient App with RN
+- 🥅 2020 Goals: Make a MongoDB Atlas Client App with RN
 - ⚡ Fun fact: I can juggle and play the violin / drums
 
 
