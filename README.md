@@ -33,7 +33,7 @@
 <hr />
 
 <img align="left" alt="Shawn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=F7D747&custom_title=My General Stats" />
-<img align="left" alt="Shawn's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFatPanda97&layout=compact&custom_title=My Top Languages&langs_count=8&hide_border=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+<img align="left" alt="Shawn's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFatPanda97&layout=compact&custom_title=My Top Languages&langs_count=8&hide_border=true&&bg_color=30,904e95,e96443&title_color=fff&text_color=fff"/>
 
 [website]: https://shawnhu.com
 [rss-bulletin]: https://github.com/TheFatPanda97/rss-bulletin
