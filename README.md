@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shawnhu.com" width="22px" src="./gmail.png" />][website]
+[<img align="left" alt="shawnhu.com" width="22px" src="./website.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="./gmail.png" />][linkedin]
 
 <br />
