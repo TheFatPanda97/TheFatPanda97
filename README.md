@@ -1,10 +1,10 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
 ## I'm a Dreamer, Developer, Entrepreneur, and Problem Solver!
-- 🔭 I’m currently working on [VIAplanner][viaplanner]!
-- 🌱 I’m currently learning how to build a mobile application with React Native
-- 🥅 2020 Goals: Make a MongoDB Atlas Client App with RN
-- ⚡ Fun fact: I can juggle and play the violin / drums
+- 🔭 &nbsp; I’m currently working on [RSS Bulletin][rss-bulletin]!
+- 🌱 &nbsp; I’m currently learning how to build a web application with firebase
+- 🥅 &nbsp; 2021 Goals: Learn and build an application using AWS
+- ⚡ &nbsp; Fun fact: I can juggle and play the violin / drums
 
 
 ### Connect with me:
@@ -35,5 +35,5 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=F7D747" />
 
 [website]: https://shawnhu.com
-[viaplanner]: https://github.com/VIAplanner
+[rss-bulletin]: https://github.com/TheFatPanda97/rss-bulletin
 [linkedin]: https://www.linkedin.com/in/shawn-
