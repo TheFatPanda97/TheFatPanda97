@@ -1,10 +1,10 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
 ## I'm a Dreamer, Developer, Entrepreneur, and Problem Solver!
-- 🔭 &nbsp; I’m currently working on [RSS Bulletin][rss-bulletin]!
-- 🌱 &nbsp; I’m currently learning how to build a web application with firebase
-- 🥅 &nbsp; 2021 Goals: Learn and build an application using AWS
-- ⚡ &nbsp; Fun fact: I can juggle and play the violin / drums
+🔭 &nbsp; I’m currently working on [RSS Bulletin][rss-bulletin]! <br>
+🌱 &nbsp; I’m currently learning how to build a web application with firebase <br>
+🥅 &nbsp; 2021 Goals: Learn and build an application using AWS <br>
+⚡ &nbsp; Fun fact: I can juggle and play the violin / drums <br>
 
 
 ### Connect with me:
