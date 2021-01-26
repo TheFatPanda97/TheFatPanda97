@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shawnhu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shawnhu.com" width="22px" src="./gmail.png" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="./gmail.png" />][linkedin]
 
 <br />
 
@@ -32,7 +32,7 @@
 <br />
 <hr />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=F7D747" />
 
 [website]: https://shawnhu.com
 [viaplanner]: https://github.com/VIAplanner
