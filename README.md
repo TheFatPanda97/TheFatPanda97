@@ -2,9 +2,9 @@
 
 ## I'm a Dreamer, Developer, Entrepreneur, and Problem Solver!
 🔭 &nbsp; I’m currently working on a react native game called [Memo][Memo] <br>
-🌱 &nbsp; I’m currently learning how to build a web application with firebase <br>
+🌱 &nbsp; I’m currently learning how to use AWS <br>
 🥅 &nbsp; 2021 Goals: Learn and build an application using AWS <br>
-⚡ &nbsp; Fun fact: I can juggle and play the violin / drums <br>
+⚡ &nbsp; Fun fact: I can juggle and play the violin and drums <br>
 
 
 ### Connect with me:
