@@ -1,7 +1,7 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
 ## I'm a Dreamer, Developer, Entrepreneur, and Problem Solver!
-🔭 &nbsp; I’m currently working on [RSS Bulletin][rss-bulletin] <br>
+🔭 &nbsp; I’m currently working on a react native game called [Memo][Memo] <br>
 🌱 &nbsp; I’m currently learning how to build a web application with firebase <br>
 🥅 &nbsp; 2021 Goals: Learn and build an application using AWS <br>
 ⚡ &nbsp; Fun fact: I can juggle and play the violin / drums <br>
@@ -40,5 +40,5 @@
 
 
 [website]: https://shawnhu.com
-[rss-bulletin]: https://github.com/TheFatPanda97/rss-bulletin
+[Memo]: https://github.com/TheFatPanda97/MemoryGame
 [linkedin]: https://www.linkedin.com/in/shawn-
