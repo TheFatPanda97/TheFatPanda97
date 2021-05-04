@@ -1,6 +1,6 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
-## I'm a Dreamer, Developer, Entrepreneur, and Problem Solver!
+## I'm a Dreamer, Developer, and Problem Solver!
 🔭 &nbsp; I’m currently working on a react native game called [Memo][Memo] <br>
 🌱 &nbsp; I’m currently learning how to use AWS <br>
 🥅 &nbsp; 2021 Goals: Learn and build an application using AWS <br>
