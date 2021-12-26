@@ -1,9 +1,9 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
 ## I'm a Dreamer, Developer, and Problem Solver!
-🔭 &nbsp; I’m currently working on a react native game called [Memo][Memo] <br>
-🌱 &nbsp; I’m currently learning how to use AWS <br>
-🥅 &nbsp; 2021 Goals: Learn and build an application using AWS <br>
+🔭 &nbsp; I’m currently working on a flutter video chat application called [Betterchat][Betterchat] <br>
+🌱 &nbsp; I’m currently learning how to use Tencent Cloud <br>
+🥅 &nbsp; 2022 Goals: Rebuild my website <br>
 ⚡ &nbsp; Fun fact: I can juggle and play the violin and drums <br>
 
 
@@ -23,6 +23,7 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -40,5 +41,5 @@
 
 
 [website]: https://shawnhu.com
-[Memo]: https://github.com/TheFatPanda97/MemoryGame
+[Betterchat]: https://github.com/TheFatPanda97/betterchat
 [linkedin]: https://www.linkedin.com/in/shawn-
