@@ -34,7 +34,7 @@
 <hr />
 
 
-<img align="left" alt="Shawn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=F7D747&custom_title=My General Stats" />
+<img align="left" alt="Shawn's Github Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=F7D747&custom_title=My General Stats" />
 
 
 
