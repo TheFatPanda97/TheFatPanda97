@@ -4,7 +4,7 @@
 🔭 &nbsp; I’m currently working on a flutter video chat application called [Betterchat][Betterchat] <br>
 🌱 &nbsp; I’m currently learning how to use Tencent Cloud <br>
 🥅 &nbsp; 2022 Goals: Rebuild my website <br>
-⚡ &nbsp; Fun fact: I can juggle and play the violin and drums <br>
+⚡ &nbsp; Fun fact: I'm an amateur lock picker
 
 
 ### Connect with me:
