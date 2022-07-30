@@ -1,6 +1,6 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
-## I'm a Dreamer, Developer, and Problem Solver!
+## Engineer, Problem Solver, Dreamer!
 🔭 &nbsp; I’m currently working on a flutter video chat application called [Betterchat][Betterchat] <br>
 🌱 &nbsp; I’m currently learning how to use Tencent Cloud <br>
 🥅 &nbsp; 2022 Goals: Rebuild my website <br>
