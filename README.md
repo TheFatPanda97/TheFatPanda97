@@ -30,15 +30,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
 
-<br />
-<hr />
-
-
-<img align="left" alt="Shawn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheFatPanda97&show_icons=true&hide_border=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=F7D747&custom_title=My General Stats" />
-
-
-
-
 
 [website]: https://shawnhu.com
 [Betterchat]: https://github.com/TheFatPanda97/betterchat
