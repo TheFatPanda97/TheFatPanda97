@@ -3,7 +3,7 @@
 ## Engineer, Problem Solver, Dreamer!
 🔭 &nbsp; I’m currently working on a flutter video chat application called [Betterchat][Betterchat] <br>
 🌱 &nbsp; I’m currently learning how to use Tencent Cloud <br>
-🥅 &nbsp; 2022 Goals: Rebuild my website <br>
+🥅 &nbsp; 2023 Goals: Obtain an full-time softare engineer position <br>
 ⚡ &nbsp; Fun fact: I'm an amateur lock picker
 
 
