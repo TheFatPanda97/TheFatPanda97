@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shawnhu.com" width="22px" src="./website.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="./gmail.png" />][linkedin]
+[<img align="left" alt="shawnhu.com" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
@@ -33,4 +33,4 @@
 
 [website]: https://shawnhu.com
 [Betterchat]: https://github.com/TheFatPanda97/betterchat
-[linkedin]: https://www.linkedin.com/in/shawn-
+[linkedin]: https://www.linkedin.com/in/shawn-hu
