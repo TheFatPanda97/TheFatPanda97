@@ -1,6 +1,6 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
-## Engineer, Problem Solver, Dreamer!
+## Engineer, Problem Solver, Dreamer
 🔭 &nbsp; I’m currently working on creating an LLM with similar capabilities to GPT2 <br>
 🌱 &nbsp; I’m currently studying for the AWS Cloud Practitioner Exams <br>
 🥅 &nbsp; 2024 Goals: Obtain the AWS Cloud Practitioner certificate <br>
