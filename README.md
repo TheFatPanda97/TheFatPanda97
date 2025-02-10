@@ -1,12 +1,5 @@
 ### Hi there, I'm Shawn - aka [TheFatPanda97][website] 👋
 
-## Engineer, Problem Solver, Dreamer
-🔭 &nbsp; I’m currently working on creating an LLM with similar capabilities to GPT2 <br>
-🌱 &nbsp; I’m currently studying for the AWS Cloud Practitioner Exams <br>
-🥅 &nbsp; 2024 Goals: Obtain the AWS Cloud Practitioner certificate <br>
-⚡ &nbsp; Fun fact: I'm an amateur lock picker
-
-
 ### Connect with me:
 
 [<img align="left" alt="shawnhu.com" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
